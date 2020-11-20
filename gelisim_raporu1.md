@@ -16,3 +16,5 @@ CodeCombat oyun oynayarak yazılım dili öğretmeyi amaçlamış olan açık ka
 Temel olarak kod yazarak oyundaki maymunun muzlarını yemesini sağlamayı amaçlayan oyuncular sol tarafta maymunun ve muzların konumunu görebildiği gibi ekranın sağ tarafında bulunan alanda kod yazabiliyor.
 
 ![codemonkey](https://lh3.googleusercontent.com/-5M3CSqFUhCc/X7gbOjUGReI/AAAAAAAAAfQ/nmvsicHru7ktFc86pEQwqeDBwCEXo-NsgCLcBGAsYHQ/image.png)
+# Kullanılacak Teknolojiler;
+Uygulamamız da java dilini kullanacağız.Libgdx kütüphanesini frameworke ekleyeceğiz.Libgdx kütüphanesi ANDROİD,IOS,WİNDOWS MAC,LİNUX işletim sistemlerinde geliştirme yapmamıza olanak sağlayan bir frameworktür.Multi platform olma özelliği sayesinde bir defa yazdığımız kodu tüm platformlarda çalıştırma olanağı sağlar.Örneğin ; Flappy Uçak oyunu ,Damla yakalama oyunu ,Chronicles of Pumma, Badlogic Games bu oyunlar libgdx kütüphanesi ile geliştirilmiştir. Faydalanmayı planladığımız web sitesi Udemy,video linkleri ise;
