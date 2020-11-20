@@ -1,1 +1,0 @@
-# Sevimli-Kodlar
