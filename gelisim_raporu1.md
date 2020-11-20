@@ -16,6 +16,6 @@ Projemiz çocuklara ve kodlamaya yeni başlayanlara yazılım öğreten ve öğr
  
  
  
- 
+ ***All this text is important***
  
  **This is bold text**
