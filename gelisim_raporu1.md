@@ -18,5 +18,7 @@ Temel olarak kod yazarak oyundaki maymunun muzlarını yemesini sağlamayı ama�
 ![codemonkey](https://lh3.googleusercontent.com/-5M3CSqFUhCc/X7gbOjUGReI/AAAAAAAAAfQ/nmvsicHru7ktFc86pEQwqeDBwCEXo-NsgCLcBGAsYHQ/image.png)
 # Kullanılacak Teknolojiler;
 Uygulamamız da java dilini kullanacağız.Libgdx kütüphanesini frameworke ekleyeceğiz.Libgdx kütüphanesi ANDROİD,IOS,WİNDOWS MAC,LİNUX işletim sistemlerinde geliştirme yapmamıza olanak sağlayan bir frameworktür.Multi platform olma özelliği sayesinde bir defa yazdığımız kodu tüm platformlarda çalıştırma olanağı sağlar.Örneğin ; Flappy Uçak oyunu ,Damla yakalama oyunu ,Chronicles of Pumma, Badlogic Games bu oyunlar libgdx kütüphanesi ile geliştirilmiştir. Faydalanmayı planladığımız web sitesi Udemy,video linkleri ise;
+
+
 https://www.youtube.com/watch?v=8okNdrl3gLM&list=PL8PxH7CK7mHSULEAiTCToS1M9fwRWVii4&index=9&ab_channel=javakaian
 https://www.udemy.com/course/libgdxvejavaileflappybird/learn/lecture/11330702#overview
