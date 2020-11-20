@@ -14,3 +14,5 @@ CodeCombat oyun oynayarak yazılım dili öğretmeyi amaçlamış olan açık ka
 ![codecombat](https://lh3.googleusercontent.com/-KowxPQr2_EU/X7gannr_ohI/AAAAAAAAAfI/QI5YV1Yr1WkbnaWCslbbY_qXAwIIXqUdgCLcBGAsYHQ/image.png)
 ## CodeMonkey  uygulaması;
 Temel olarak kod yazarak oyundaki maymunun muzlarını yemesini sağlamayı amaçlayan oyuncular sol tarafta maymunun ve muzların konumunu görebildiği gibi ekranın sağ tarafında bulunan alanda kod yazabiliyor.
+
+![codemonkey](https://lh3.googleusercontent.com/-5M3CSqFUhCc/X7gbOjUGReI/AAAAAAAAAfQ/nmvsicHru7ktFc86pEQwqeDBwCEXo-NsgCLcBGAsYHQ/image.png)
