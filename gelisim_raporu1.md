@@ -10,4 +10,3 @@ Projemizle ilgili bir alan taraması yaptık. Yaptığımız araştırmalara gö
  
  
  
- 
