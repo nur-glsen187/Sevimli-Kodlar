@@ -12,3 +12,5 @@ Projemizle ilgili bir alan taraması yaptık. Yaptığımız araştırmalara gö
 CodeCombat oyun oynayarak yazılım dili öğretmeyi amaçlamış olan açık kaynak kodlu bir projedir. Bu oyunu geliştireceğimiz oyundan ayrılan tarafı oyundaki karakterimizi herhangi bir tuş kombinasyonuyla değilde tamamen kod yazarak yönetiyor olmamızdır.
 
 ![codecombat](https://lh3.googleusercontent.com/-KowxPQr2_EU/X7gannr_ohI/AAAAAAAAAfI/QI5YV1Yr1WkbnaWCslbbY_qXAwIIXqUdgCLcBGAsYHQ/image.png)
+## CodeMonkey  uygulaması;
+Temel olarak kod yazarak oyundaki maymunun muzlarını yemesini sağlamayı amaçlayan oyuncular sol tarafta maymunun ve muzların konumunu görebildiği gibi ekranın sağ tarafında bulunan alanda kod yazabiliyor.
