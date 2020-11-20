@@ -21,3 +21,6 @@ Uygulamamızda java dilini kullanacağız.Libgdx kütüphanesini frameworke ekle
 
 ![sevimlikod](https://1.bp.blogspot.com/-W6k31lEdeLo/X7ekULgWziI/AAAAAAAAAe8/vqmTqidpx343XLHyvkheFXrkcaWOFRFlgCLcBGAsYHQ/s1914/sevimli.png)
 <font color="green"> R</font>
+
+
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
