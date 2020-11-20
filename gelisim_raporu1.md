@@ -6,5 +6,5 @@ Projemiz çocuklara ve kodlamaya yeni başlayanlara yazılım öğreten ve öğr
  
  
  
- 
+ *her proje bir eziyettir*
  ***merhaba dünya***
