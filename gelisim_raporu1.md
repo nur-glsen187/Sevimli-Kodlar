@@ -28,4 +28,4 @@ https://www.udemy.com/course/libgdxvejavaileflappybird/learn/lecture/11330702#ov
 
 
 #  HEDEFLENEN ÇIKTILAR
-Libgdx frameworkü farklı platformlarda çıktı üretme olanağı sağlar.Bunlar Android,IOS,Masaüstü uygulamamları,Web vs.tarzındadır.Tek kitleye ulaşmayı hedefliyoruz.Çoçukların görsel açıdan kod parçalarını kendileri toplayıp deneyimleyerek öğrendikleri kodlama görevleri daha akılda kalıcı olacaktır.
+Libgdx frameworkü farklı platformlarda çıktı üretme olanağı sağlar.Bunlar Android,IOS,Masaüstü uygulamamları,Web vs.tarzındadır.Tek kitleye ulaşmayı hedefliyoruz.Çocukların görsel açıdan kod parçalarını kendileri toplayıp deneyimleyerek öğrendikleri kodlama görevleri daha akılda kalıcı olacaktır.
