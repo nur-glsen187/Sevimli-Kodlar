@@ -17,3 +17,6 @@ Temel olarak kod yazarak oyundaki maymunun muzlarını yemesini sağlamayı ama�
 # Kullanılacak Teknolojiler;
 Uygulamamızda java dilini kullanacağız.Libgdx kütüphanesini frameworke ekleyeceğiz.Libgdx kütüphanesi ANDROİD,IOS,WİNDOWS MAC,LİNUX işletim sistemlerinde geliştirme yapmamıza olanak sağlayan bir frameworktür.Multi platform olma özelliği sayesinde bir defa yazdığımız kodu tüm platformlarda çalıştırma olanağı sağlar.Örneğin ; Flappy Uçak oyunu ,Damla yakalama oyunu ,Chronicles of Pumma, Badlogic Games bu oyunlar libgdx kütüphanesi ile geliştirilmiştir. Faydalanmayı planladığımız web sitesi Udemy,video linkleri ise;
 ![kedicik](https://www.iyihisset.com/sites/default/files/yasa/kediler_hakkinda_az_bilinen_50_sasirtici_bilgi_0_1.jpg)
+
+
+![sevimlikod](https://1.bp.blogspot.com/-W6k31lEdeLo/X7ekULgWziI/AAAAAAAAAe8/vqmTqidpx343XLHyvkheFXrkcaWOFRFlgCLcBGAsYHQ/s1914/sevimli.png)
