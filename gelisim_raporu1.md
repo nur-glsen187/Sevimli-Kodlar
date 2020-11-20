@@ -12,7 +12,11 @@ Projemiz çocuklara ve kodlamaya yeni başlayanlara yazılım öğreten ve öğr
  
  ***heyhehhjhjjh***
  
- 
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
  
  
  
