@@ -8,3 +8,5 @@ Projemizle ilgili bir alan taraması yaptık. Yaptığımız araştırmalara gö
 Çocuklara programlamayı sevdirme amaçlı geliştirilmiş bir platformdur.Bu platformu kullanan çocuklar temel düzeyde algoritma becerileri kazanabilmektedir.Oyun içerisinde 2 çeşit oyun karakteri vardır.Çocuklardan  bu karakterleri kullanarak blog komutlarla ileri geri gitmeleri sağa sola döndüren komutları kullanarak onları yönlendirmeleri istenmektedir.  Geliştiriceğimiz oyunda  kullanıcının kod parçacıklarını toplayarak kodu kendisinin yazması beklenirken Code.org platformunda ise hazır kod blogları kullanılmaktadır.İki oyun arasındaki farklılık buradan kaynaklanmaktadır.
 
 ![code](https://3.bp.blogspot.com/-SW6nCU0DNnY/WwKvv7Uyb_I/AAAAAAAACL8/kH_cnw7pDeIBphfZs7sf4BSsfvfpWci5gCLcBGAs/s1600/codeders3.jpg)
+## CodeCombat uygulaması;
+CodeCombat oyun oynayarak yazılım dili öğretmeyi amaçlamış olan açık kaynak kodlu bir projedir. Bu oyunu geliştireceğimiz oyundan ayrılan tarafı oyundaki karakterimizi herhangi bir tuş kombinasyonuyla değilde tamamen kod yazarak yönetiyor olmamızdır.
