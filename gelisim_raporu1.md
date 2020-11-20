@@ -10,7 +10,7 @@ Projemiz çocuklara ve kodlamaya yeni başlayanlara yazılım öğreten ve öğr
  * **ISZ komutu, sıfırsa artar ve atlar. 083 adresindeki hafıza kelimesi B8F2 (1011 1000 1111 0010) işlenene sahiptir. Dolayısıyla  DR, B8F3'tür  (sıfır olmadığı için 1 artırılır).***
  
  
- 
+ ***heyhehhjhjjh***
  
  
  
