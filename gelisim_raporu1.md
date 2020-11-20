@@ -22,4 +22,6 @@ Uygulamamız da java dilini kullanacağız.Libgdx kütüphanesini frameworke ekl
 
 https://www.youtube.com/watch?v=8okNdrl3gLM&list=PL8PxH7CK7mHSULEAiTCToS1M9fwRWVii4&index=9&ab_channel=javakaian
 https://www.udemy.com/course/libgdxvejavaileflappybird/learn/lecture/11330702#overview
-#İŞ BÖLÜMÜ PLANLAMA
+
+# İŞ BÖLÜMÜ PLANLAMA
+
