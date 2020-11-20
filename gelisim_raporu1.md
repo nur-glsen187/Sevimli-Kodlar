@@ -10,3 +10,5 @@ Projemizle ilgili bir alan taraması yaptık. Yaptığımız araştırmalara gö
 ![code](https://3.bp.blogspot.com/-SW6nCU0DNnY/WwKvv7Uyb_I/AAAAAAAACL8/kH_cnw7pDeIBphfZs7sf4BSsfvfpWci5gCLcBGAs/s1600/codeders3.jpg)
 ## CodeCombat uygulaması;
 CodeCombat oyun oynayarak yazılım dili öğretmeyi amaçlamış olan açık kaynak kodlu bir projedir. Bu oyunu geliştireceğimiz oyundan ayrılan tarafı oyundaki karakterimizi herhangi bir tuş kombinasyonuyla değilde tamamen kod yazarak yönetiyor olmamızdır.
+
+![codecombat](https://lh3.googleusercontent.com/-KowxPQr2_EU/X7gannr_ohI/AAAAAAAAAfI/QI5YV1Yr1WkbnaWCslbbY_qXAwIIXqUdgCLcBGAsYHQ/image.png)
