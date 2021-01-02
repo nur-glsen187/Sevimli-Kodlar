@@ -21,7 +21,8 @@ Ekranda hareketli grafikleri çizmek için çeşitli yöntemler içerir. SpriteB
 Oyunumuzu oluşturduğumuzda bir arka plan rengi tanımlamamız ve her çizdiğimizde bu renkleri temizlememiz gerekiyor.Bu metod bu işlemi yapıyor.
 
 ![arkaplan silme](https://1.bp.blogspot.com/-mpr3ty4vU_A/X_DrkSD804I/AAAAAAAAAhQ/7HY1gOX6xlQNRaZDuKkLORNMAGFLY6oyQCLcBGAsYHQ/s560/pis%2Bhali.JPG)
-[arkaplan silme](https://1.bp.blogspot.com/-Syow_vFXLPE/X_Drkf02JcI/AAAAAAAAAhM/1dGp9IiPT4sjjkpNxtTrEx4algBEYWF4QCLcBGAsYHQ/s500/temiz%2Bhali.JPG)
+![arkaplan temiz](https://1.bp.blogspot.com/-Syow_vFXLPE/X_Drkf02JcI/AAAAAAAAAhM/1dGp9IiPT4sjjkpNxtTrEx4algBEYWF4QCLcBGAsYHQ/s500/temiz%2Bhali.JPG)
+
 
 
 
