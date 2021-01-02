@@ -13,6 +13,8 @@ Oyunumuzda  her state için bir kamera olacaktır .OrtographicCamera sınıfınd
 
 ## State :
 Obje farklı durumlarda farklı davranışlar gösteriyorsa state yapısı kullanılır.Oyunumuzda farklı durumları kontrol etmek için bir çok state classı kullandık.Farklı durumlara sahip objenin yeni bir duruma geçtiğinde yaptığı haretin değişmesidir.
+## SpriteBatch:
+Ekranda hareketli grafikleri çizmek için çeşitli yöntemler içerir. SpriteBatch sınıfından oluşturduğumuz objeyi draw() methoduyla kullandığımızda o an çizim işlemini yapmıyor,sadece verdiğimiz verileri organize ediyor. draw() methodunu çalıştırmak için begin ve end methodlarının arasına yazılması gerekir. 
 
 
 
