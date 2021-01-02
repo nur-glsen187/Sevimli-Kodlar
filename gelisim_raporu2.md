@@ -24,6 +24,9 @@ Oyunumuzu oluşturduğumuzda bir arka plan rengi tanımlamamız ve her çizdiği
 ![arkaplan temiz](https://1.bp.blogspot.com/-Syow_vFXLPE/X_Drkf02JcI/AAAAAAAAAhM/1dGp9IiPT4sjjkpNxtTrEx4algBEYWF4QCLcBGAsYHQ/s500/temiz%2Bhali.JPG)
 
 
+#  Araçlar
+## Eclipse nedir?
+Yazılım geliştiricilerinin değişik programlama dillerinde yazılmış kodları geliştirmelerine,test etmelerini sağlayan java tabanlı geliştirme platformudur.Eclipse ortamı sağladığı eklentilerle işlevleri geliştirilerek birden çok alanda kullanılabilmektedir.Oyunumuzu eclipse platformu üzerinde geliştirdik.
 
 
 
