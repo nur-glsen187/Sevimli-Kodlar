@@ -11,7 +11,7 @@ Oyun programlarken resimlerimizi texture içinde tutarız. Bir nevi resim albüm
 
 Oyunumuzda  her state için bir kamera olacaktır .OrtographicCamera sınıfından ürettiğimiz  camera nesnesine setToOrto metoduyla kameranın ters veya düz olacağı,kameranın genişliği ve yüksekliği değerleri verilecektir
 
-## State
+## State :
 Obje farklı durumlarda farklı davranışlar gösteriyorsa state yapısı kullanılır.Oyunumuzda farklı durumları kontrol etmek için bir çok state classı kullandık.Farklı durumlara sahip objenin yeni bir duruma geçtiğinde yaptığı haretin değişmesidir.
 
 
