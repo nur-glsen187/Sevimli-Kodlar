@@ -17,8 +17,11 @@ Obje farklı durumlarda farklı davranışlar gösteriyorsa state yapısı kulla
 Ekranda hareketli grafikleri çizmek için çeşitli yöntemler içerir. SpriteBatch sınıfından oluşturduğumuz objeyi draw() methoduyla kullandığımızda o an çizim işlemini yapmıyor,sadece verdiğimiz verileri organize ediyor. draw() methodunu çalıştırmak için begin ve end methodlarının arasına yazılması gerekir. 
 
 
+## glClearColor : 
+Oyunumuzu oluşturduğumuzda bir arka plan rengi tanımlamamız ve her çizdiğimizde bu renkleri temizlememiz gerekiyor.Bu metod bu işlemi yapıyor.
 
-
+![arkaplan silme](https://1.bp.blogspot.com/-mpr3ty4vU_A/X_DrkSD804I/AAAAAAAAAhQ/7HY1gOX6xlQNRaZDuKkLORNMAGFLY6oyQCLcBGAsYHQ/s560/pis%2Bhali.JPG)
+[arkaplan silme](https://1.bp.blogspot.com/-Syow_vFXLPE/X_Drkf02JcI/AAAAAAAAAhM/1dGp9IiPT4sjjkpNxtTrEx4algBEYWF4QCLcBGAsYHQ/s500/temiz%2Bhali.JPG)
 
 
 
