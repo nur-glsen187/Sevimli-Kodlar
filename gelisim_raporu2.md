@@ -25,9 +25,9 @@ Oyunumuzu oluşturduğumuzda bir arka plan rengi tanımlamamız ve her çizdiği
 
 
 #  Araçlar
-## Eclipse nedir?
+## Eclipse:
 Yazılım geliştiricilerinin değişik programlama dillerinde yazılmış kodları geliştirmelerine,test etmelerini sağlayan java tabanlı geliştirme platformudur.Eclipse ortamı sağladığı eklentilerle işlevleri geliştirilerek birden çok alanda kullanılabilmektedir.Oyunumuzu eclipse platformu üzerinde geliştirdik.
-# LİPGDX:
+# Lipgdx:
 Açık kaynaklı bir oyun kütüphanesidir. LİPGDX' de yazdığımız kodu android,ios,desktop,html için derleyip bu platformlarda'da oynamaya olanak sağlar bu da bize avantaj sağlar.Bizde bu kütüphaneyi eclipse platformamıza entegre ettik.
 
 
