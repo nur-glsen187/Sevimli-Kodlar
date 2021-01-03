@@ -33,9 +33,12 @@ Açık kaynaklı bir oyun kütüphanesidir. LİPGDX' de yazdığımız kodu andr
 ##  Overleaf :
 Bilimsel belgeleri yazıp biçimlendirmek için kullanılan bulut tabanlı bir editördür. Oyunumuzu raporlandırırken  bu editörü kullandık.
 
-|   |   |      
-|---|---|
-|   |   |     
-|   |   |    
+# İŞ DAĞILIMI
+
+|Grup Üyesi   	| Saat Yüzdesi   	|     	
+|---	|---	|	
+|   	|   	|   	  	
+|   	|   	|   	
+   	   	  	
 
 
