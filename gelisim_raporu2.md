@@ -43,6 +43,7 @@ Bilimsel belgeleri yazıp biçimlendirmek için kullanılan bulut tabanlı bir e
  
  # KAYNAKLAR
  **[1]** SİNA5AN (23 Ekim 2016)  WebSite https://www.youtube.com/watch?v=RAx8L3_rb9s (20 Kasım 2020)
+ 
  **[2]** Javakaian (16 Ağustos 2015) WebSite https://www.youtube.com/watch?v=lTmfSXg85PA&list=PL8PxH7CK7mHSULEAiTCToS1M9fwRWVii4&index=1 (
 
 
