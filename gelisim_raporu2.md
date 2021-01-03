@@ -37,8 +37,8 @@ Bilimsel belgeleri yazıp biçimlendirmek için kullanılan bulut tabanlı bir e
 
 |Grup Üyesi   	| Saat Yüzdesi   	|     	
 |---	|---	|	
-|   	|   	|   	  	
-|   	|   	|   	
-   	   	  	
+|   Saide  Nur GÜLSEN	|   33	|   	  	
+|Burcu MACİT	|%33	|   	
+ |   Gülşen AYHAN	 | 	%33	|
 
 
