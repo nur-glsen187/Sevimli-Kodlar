@@ -41,6 +41,11 @@ Bilimsel belgeleri yazıp biçimlendirmek için kullanılan bulut tabanlı bir e
 |Burcu MACİT	|%33	|   	
  |   Gülşen AYHAN	 | 	%33	|
  
+ 
+ # DÜZELTMELER 
+ 
+ ![gant seması](https://1.bp.blogspot.com/-mpr3ty4vU_A/X_DrkSD804I/AAAAAAAAAhQ/7HY1gOX6xlQNRaZDuKkLORNMAGFLY6oyQCLcBGAsYHQ/s560/pis%2Bhali.JPG)
+ 
  # KAYNAKLAR
  **[1]** SİNA5AN (23 Ekim 2016)  WebSite https://www.youtube.com/watch?v=RAx8L3_rb9s (20 Kasım 2020)
  
