@@ -44,7 +44,7 @@ Bilimsel belgeleri yazıp biçimlendirmek için kullanılan bulut tabanlı bir e
  
  # DÜZELTMELER 
  
- ![gant seması](https://1.bp.blogspot.com/-mpr3ty4vU_A/X_DrkSD804I/AAAAAAAAAhQ/7HY1gOX6xlQNRaZDuKkLORNMAGFLY6oyQCLcBGAsYHQ/s560/pis%2Bhali.JPG)
+![gant seması](https://1.bp.blogspot.com/-GAx2knLjgj0/X_IM_VZ8ZEI/AAAAAAAAAhs/RF8SrlDCpY8IHLit1W2G8dUOcFRpPx5iQCLcBGAsYHQ/s1543/Gant%25C5%259Eemas%25C4%25B1.png)
  
  # KAYNAKLAR
  **[1]** SİNA5AN (23 Ekim 2016)  WebSite https://www.youtube.com/watch?v=RAx8L3_rb9s (20 Kasım 2020)
