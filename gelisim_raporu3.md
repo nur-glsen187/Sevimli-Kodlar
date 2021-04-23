@@ -11,3 +11,5 @@ RESİMMMM
 Diğer yaşadığımız zorlukta oyun nesnemizi hareket ettirebilmek için sürekli klavyeye basıyor oluşumuzdu.Biz tek bir girdi hamlesiyle oyun nesnemiz kesintisiz hareket etsin istiyorduk.Bunu şu şekilde düzeltmiş olduk ; 
 
 RESİMMMM
+
+Her oyun saniyede 60 kez updute edilmek zorundadır.Bunu sabit bir rakam yapıyoruz ki herkesin bilgisayarında oyun eşit hızda çalışsın.
