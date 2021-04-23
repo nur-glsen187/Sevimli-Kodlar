@@ -1,1 +1,3 @@
 # Sevimli-Kodlar
+
+# Düzeltmeler
