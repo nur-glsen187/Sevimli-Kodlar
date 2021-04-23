@@ -18,3 +18,6 @@ Her oyun saniyede 60 kez update edilmek zorundadır.Bunu sabit bir rakam yapıyo
 
 Bunu da update fonksiyonunun içine delta parametresini koyarak yaptık.
 
+# Araçlar
+ Libgdx 
+
