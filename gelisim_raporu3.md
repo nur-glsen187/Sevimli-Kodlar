@@ -20,4 +20,5 @@ Bunu da update fonksiyonunun içine delta parametresini koyarak yaptık.
 
 # Araçlar
  Libgdx 
+ Eclipse
 
