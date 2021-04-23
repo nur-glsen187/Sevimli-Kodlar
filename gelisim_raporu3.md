@@ -31,7 +31,11 @@ Bunu da update fonksiyonunun içine delta parametresini koyarak yaptık.
 
 [2] Javakaian (16 Ağustos 2015) WebSite https://www.youtube.com/watch?v=lTmfSXg85PA&list=PL8PxH7CK7mHSULEAiTCToS1M9fwRWVii4&index=1 (1 Aralık 2020)
 
-[3] YazilimBankasi(25 Nisan 2018) WebSite https://yazilimbankasi.blogspot.com/2018/04/libgdx-nedir.html (4 Nisan 2021)
+[3] YazilimBankasi(25 Nisan 2018) WebSite https://yazilimbankasi.blogspot.com/2018/04/libgdx-nedir.html (4 Mart 2021)
+
+[4] ProgramlamaDersleri (20 Ağustos 2015) WebSite https://www.youtube.com/watch?v=MkOQ9rynRfk&list=PL8PxH7CK7mHSULEAiTCToS1M9fwRWVii4&index=8  ( 10 Nisan 2021)
+
+
 
  
 
