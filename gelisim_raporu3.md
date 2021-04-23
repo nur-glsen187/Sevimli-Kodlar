@@ -35,6 +35,8 @@ Bunu da update fonksiyonunun içine delta parametresini koyarak yaptık.
 
 [4] ProgramlamaDersleri (20 Ağustos 2015) WebSite https://www.youtube.com/watch?v=MkOQ9rynRfk&list=PL8PxH7CK7mHSULEAiTCToS1M9fwRWVii4&index=8  ( 10 Nisan 2021)
 
+[5] Awesome tuts (11/2018) WebSite https://www.udemy.com/course/the-complete-libgdx-game-course/#instructor-1 (23 Mart 2021)
+
 
 
  
