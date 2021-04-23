@@ -6,8 +6,7 @@
 # Zorluklar
 Oyun nesnemiz kesintisiz hareket etmiyordu.Tuşa sürekli bastığımızda kesintisiz bir hareketi yoktu.Bu sürekliliği sağlarken bir zorluk yaşadık. Bunu şu şekilde çözdük;
 
-
-reddfhjklk
+![heyy](https://1.bp.blogspot.com/-tutUT5J0Di4/YIMUbXBfGVI/AAAAAAAAAkM/Uc1toAECXhU4OQ354A1U7oOowuL4Q09ZQCLcBGAsYHQ/w407-h278/WhatsApp%2BImage%2B2021-04-23%2Bat%2B21.34.52.jpeg)
 
 Diğer yaşadığımız zorlukta oyun nesnemizi hareket ettirebilmek için tek tuşla sınırlı kalmamızdı. Biz ise iki tuş ile de hareket sağlayabilmek istiyorduk.Bunu da şu şekilde çözdük;
 
