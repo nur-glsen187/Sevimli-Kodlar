@@ -12,4 +12,4 @@ Diğer yaşadığımız zorlukta oyun nesnemizi hareket ettirebilmek için süre
 
 RESİMMMM
 
-Her oyun saniyede 60 kez updute edilmek zorundadır.Bunu sabit bir rakam yapıyoruz ki herkesin bilgisayarında oyun eşit hızda çalışsın.h
+Her oyun saniyede 60 kez update edilmek zorundadır.Bunu sabit bir rakam yapıyoruz ki herkesin bilgisayarında oyun eşit hızda çalışsın.h
